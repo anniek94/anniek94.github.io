@@ -1,0 +1,32 @@
+#directory-body{
+  background-color: black; 
+}
+
+#directory-img{
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.menu_frame{
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#works-link{
+  z-index: 1;
+  position: absolute;
+  width: 38rem;
+  height: 30rem;
+  right: 10rem;
+  top: 6rem;
+}
+
+#works-link:hover{
+  cursor: pointer;
+}
